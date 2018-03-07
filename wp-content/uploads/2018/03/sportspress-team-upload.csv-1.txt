@@ -1,0 +1,2 @@
+Name,Leagues,Seasons,Site URL,Abbreviation,Home
+Tear It Up,Novice,2017/18-Winter,,,
